@@ -1,0 +1,5 @@
+location_id,weather_file,weather_format,latitude,elevation,AWC,DDC,RCN,RZD,WUC
+CollegeStation,inputs/weather/college_station.dat,,30.628,103,0.09,0.60,58,500,0.096
+Lubbock,inputs/weather/lubbock.dat,,33.584,992,0.09,0.60,58,500,0.096
+Lubbock_NOAA,inputs/weather/lubbock_noaa_daily.csv,noaa_daily,33.66578,993.2,0.09,0.60,58,500,0.096
+CorpusChristi,inputs/weather/corpus_christi.dat,,27.774,13,0.09,0.60,58,500,0.096

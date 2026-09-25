@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "Texas Cotton ARID–ENSO Analysis"
+authors:
+  - family-names: "Attia"
+    given-names: "Ahmed"
+repository-code: "https://github.com/attia3/texas-cotton-arid-enso"
+license: MIT
+date-released: 2026-09-25
+abstract: >-
+  R workflow for phenology-based Agricultural Reference Index for Drought
+  modeling, relative cotton yield loss, and ENSO composites across Texas
+  cotton-growing areas from 1975 through 2025.
+keywords:
+  - cotton
+  - drought
+  - ARID
+  - phenology
+  - relative yield
+  - ENSO
+  - Texas

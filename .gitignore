@@ -1,0 +1,37 @@
+# R session and IDE files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+
+# Credentials and local configuration
+*.env
+*.key
+*.pem
+
+# Large source and derived geospatial data
+CroplandTX/
+*.tif
+*.tiff
+*.ovr
+*.nc
+*.grd
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.rds
+
+# Generated inputs and outputs; retain documentation
+inputs/*
+!inputs/README.md
+!inputs/enso_years_1975_2025.csv
+!inputs/texas_cotton_area.geojson
+outputs/*
+!outputs/README.md
+
+# Operating-system files
+.DS_Store
+Thumbs.db
