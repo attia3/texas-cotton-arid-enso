@@ -140,8 +140,7 @@ The annual outputs are modeled **relative** yield responses, not direct predicti
 
 ## Citation
 
-Citation metadata are provided in [`CITATION.cff`](CITATION.cff). Update the manuscript DOI and software release version when they become available.
-
+Citation metadata are provided in [`CITATION.cff`](CITATION.cff). 
 ## License
 
 The code is released under the [MIT License](LICENSE). Input datasets remain subject to their respective providers’ terms and citation requirements.
